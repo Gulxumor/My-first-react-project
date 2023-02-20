@@ -1,0 +1,6 @@
+.header {
+    background-image: url('./banner.png');
+    height: 310px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
