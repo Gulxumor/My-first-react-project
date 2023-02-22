@@ -3,6 +3,7 @@ import './Root.css'
 import Navbar from './Navbar.js'
 import Header from './Header.js'
 import Newsletter from './Newsletter.js'
+import Card from './Card'
 
 
 
@@ -11,6 +12,7 @@ function Root() {
     <div>
         <Navbar />
         <Header />
+        <Card />
         <Newsletter />
     </div>
     )
